@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/damodaranj/eks-demo-app-ci-cd.git"
+    "url": "git+https://github.com/sakthipriyan6056/eks-demo-app-ci-cd.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/damodaranj/eks-demo-app-ci-cd/issues"
+    "url": "https://github.com/sakthipriyan6056/eks-demo-app-ci-cd/issues"
   },
-  "homepage": "https://github.com/damodaranj/eks-demo-app-ci-cd#readme",
+  "homepage": "https://github.com/sakthipriyan6056/eks-demo-app-ci-cd#readme",
   "dependencies": {
     "express": "^4.18.1"
   }
